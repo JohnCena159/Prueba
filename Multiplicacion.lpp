@@ -19,7 +19,7 @@ lea c
 
 llamar nueva_linea
 
-D<-A*B+C
+D<-A*B*C
 
 llamar nueva_linea
 
