@@ -1,0 +1,23 @@
+Real A,B,C
+inicio
+
+escriba "resta de dos numeros"
+
+llamar nueva_linea
+
+escriba "Ingrese el primer numero "
+
+lea A
+
+llamar nueva_linea
+
+escriba "Ingrese el segundo numero "
+Lea B
+
+C<-A-B
+
+llamar nueva_linea
+
+escriba "La division de ", A, " dividido ", B, " es: " ,C
+
+Fin
